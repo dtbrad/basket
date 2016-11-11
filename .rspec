@@ -1,0 +1,3 @@
+--color
+--require spec_helper
+bin/rails generate rspec:install
